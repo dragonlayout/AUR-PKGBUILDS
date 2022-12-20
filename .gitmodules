@@ -1,0 +1,3 @@
+[submodule "another-redis-desktop-manager"]
+	path = another-redis-desktop-manager
+	url = https://aur.archlinux.org/another-redis-desktop-manager-appimage.git
